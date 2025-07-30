@@ -1,4 +1,4 @@
 {
   "proxy": "http://user:pass@host:port",
-  "threads": 390
+  "threads":300
 }
