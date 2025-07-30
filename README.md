@@ -1,5 +1,8 @@
 # 🚀 Twitter Account Checker
 
+> **🔥 Buy High-Quality Twitter Accounts → [twtstore.com](https://twtstore.com)**  
+> **Only $0.02 each or $20 per 1K** – **No follow limits, high quality!**
+
 A **blazing fast**, **modern**, and **async-powered** Twitter account checker that validates accounts using `auth_token` (and `ct0` if available).  
 Built for speed, reliability, and ease of use.
 
@@ -20,5 +23,3 @@ Built for speed, reliability, and ease of use.
   - `output/badToken.txt` (Invalid tokens)
 
 ---
-
-python main.py 
